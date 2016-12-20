@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFragment2</string>
+    <string name="id">id</string>
+    <string name="description">description</string>
+    <string name="cost">cost</string>
+    <item name="textView2" type="id">textView2</item>
+    <item name="textView4" type="id">textView4</item>
+    <item name="textView6" type="id">textView6</item>
+</resources>

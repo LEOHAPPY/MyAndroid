@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="next">Next</string>
+    <string name="customdialogtitle">Custom Title</string>
+    <string name="sayyes">YES selected</string>
+    <string name="sayno">NO selected</string>
+    <string name="item1_value">Item1 spelling</string>
+    <string name="item2_value">Item2 spelling</string>
+    <string name="item3_value">Item3 spelling</string>
+    <string name="context1_value">Context1 spelling</string>
+    <string name="context2_value">Context2 spelling</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccessInternet</string>
+    <string name="name">Name</string>
+    <string name="eid">Emp id</string>
+    <string name="department">Department</string>
+    <string name="address">Address</string>
+</resources>

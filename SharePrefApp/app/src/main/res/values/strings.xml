@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharePrefApp</string>
+    <item name="editText1" type="id">editText1</item>
+    <item name="button1" type="id">button1</item>
+    <item name="editText2" type="id">editText2</item>
+</resources>
